@@ -7,6 +7,6 @@ be added and the scope of things which can be done can be expanded.
 
 How to Use:
 
-The application starts by Wishing the user according to the time of the day(morning, afternoon and evening) and asks for user voice command,
-User can ask a lot of different things and if the application did not recogonizes that i will asks the user to repeat. The application can be terminated by using
+The application starts by Wishing the user according to the time of the day(morning, afternoon, and evening) and asks for user voice command,
+Users can ask a lot of different things and if the application did not recognize that I will ask the user to repeat. The application can be terminated by using
 the keyword "dismiss".
